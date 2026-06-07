@@ -1,5 +1,6 @@
 # AWS-2-Tier-Student-Registration-Portal-Deployment
 Cloud-hosted Student Registration Portal deployed on AWS EC2 using Apache, PHP, MariaDB, and Linux.
+
 -- Project Summary --
 
 This project demonstrates the deployment of a cloud-hosted Student Registration Portal using AWS EC2, Apache HTTP Server, PHP, and MariaDB. The application enables students to register through a web interface, while the backend database securely stores and manages registration data. The project was developed to gain practical experience in cloud infrastructure deployment, Linux server administration, web hosting, database integration, and troubleshooting.
